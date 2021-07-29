@@ -1,15 +1,9 @@
 ### Bem-vindo ao meu Github!
 
-<div>
+   <div>
   <a href="https://github.com/claucio-will">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claucio-will&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claucio-will&layout=compact&langs_count=7&theme=dracula&hide=Kotlin,Objective-C,Swift"/>
-</div>
-  
-   <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
